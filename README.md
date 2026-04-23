@@ -12,8 +12,8 @@ Basically, it turns hours of flashcard creation into a 30-second script so you c
 * **Variable Breakdowns:** It automatically lists what every single letter means on the back of the card right under the formula.
 * **Actually Stable:** I ditched standard JSON parsing for a custom text-block slicer, which means the script won't crash just because of a weird LaTeX backslash. 
 ## Card layout
-![Anki Card Preview](Screenshot2026-04-23234300.png)
-![Anki Card Preview](Screenshot2026-04-23234425.png)
+![Anki Card Preview](0.png)
+![Anki Card Preview](1.png)
 ## 🛠️ What you need
 * Python 3.9+
 * A free [Google Gemini API Key](https://aistudio.google.com/app/apikey)
